@@ -1,0 +1,19 @@
+[
+    {
+        "id": "b581b95615a135d8",
+        "type": "file",
+        "z": "f6f2187d.f17ca8",
+        "name": "tp_json",
+        "filename": "/usr/src/node-red/tp/tp_json_sf4",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1000,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    }
+]
