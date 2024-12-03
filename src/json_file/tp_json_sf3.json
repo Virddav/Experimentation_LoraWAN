@@ -1,0 +1,2444 @@
+[
+    {
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 170,
+            "gpspos": {
+                "lat": 43.55804,
+                "lon": 1.46955
+            },
+            "lsnr": 6,
+            "mac": "00800000A00048F6",
+            "rssi": -105,
+            "time": "2024-12-03T12:44:42.196998Z",
+            "tmms": 1417265100196
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -108
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -1.5,
+            "mac": "008000000000C2FA",
+            "rssi": -117,
+            "time": "2024-12-03T12:44:42.182286Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 170,
+        "gpspos": {
+            "lat": 43.55804,
+            "lon": 1.46955
+        },
+        "lsnr": 6,
+        "mac": "00800000A00048F6",
+        "rssi": -105,
+        "time": "2024-12-03T12:44:42.196998Z",
+        "tmms": 1417265100196
+    },
+    "codr": "4/5",
+    "data": "016701580268400373275C0486FFF900030000",
+    "datetime": "2024-12-03T12:44:42Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 1,
+    "freq": 868.5,
+    "lsnr": 6,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -108
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -7,
+            "mac": "50303541143D4750",
+            "rssi": -110,
+            "time": "2024-12-03T12:45:12.424919Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": 2.8,
+            "mac": "008000000000C2F1",
+            "rssi": -111,
+            "time": "2024-12-03T12:45:12.355230Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 171,
+            "gpspos": {
+                "lat": 43.55804,
+                "lon": 1.46957
+            },
+            "lsnr": -0.5,
+            "mac": "00800000A00048F6",
+            "rssi": -113,
+            "time": "2024-12-03T12:45:12.422204Z",
+            "tmms": 1417265130421
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -1.8,
+            "mac": "008000000000C2FA",
+            "rssi": -118,
+            "time": "2024-12-03T12:45:12.403392Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+        "gpsalt": 155,
+        "gpspos": {
+            "lat": 43.56223260262245,
+            "lon": 1.4676833152770996
+        },
+        "lsnr": 7.2,
+        "mac": "FFFE00044BEC61C2",
+        "rssi": -108
+    },
+    "codr": "4/5",
+    "data": "016701570268400373275C0486FFF900020000",
+    "datetime": "2024-12-03T12:45:12Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 2,
+    "freq": 868.3,
+    "lsnr": 7.2,
+    "mac": "FFFE00044BEC61C2",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -108
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -7,
+            "mac": "50303541143D4750",
+            "rssi": -108,
+            "time": "2024-12-03T12:45:42.657040Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -108
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": -7,
+        "mac": "50303541143D4750",
+        "rssi": -108,
+        "time": "2024-12-03T12:45:42.657040Z"
+    },
+    "codr": "4/5",
+    "data": "016701560268400373275C0486FFF900020000",
+    "datetime": "2024-12-03T12:45:42Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 3,
+    "freq": 868.5,
+    "lsnr": -7,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -108
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -0.5,
+            "mac": "50303541143D4750",
+            "rssi": -107,
+            "time": "2024-12-03T12:46:12.893097Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -107
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": -0.5,
+        "mac": "50303541143D4750",
+        "rssi": -107,
+        "time": "2024-12-03T12:46:12.893097Z"
+    },
+    "codr": "4/5",
+    "data": "0167015702683F0373275C0486FFF900020000",
+    "datetime": "2024-12-03T12:46:12Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 4,
+    "freq": 868.5,
+    "lsnr": -0.5,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -107
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 0.25,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T12:46:43.129733Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -0.2,
+            "mac": "008000000000C2F1",
+            "rssi": -107,
+            "time": "2024-12-03T12:46:43.058848Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 184,
+            "gpspos": {
+                "lat": 43.55808,
+                "lon": 1.46957
+            },
+            "lsnr": 1.2,
+            "mac": "00800000A00048F6",
+            "rssi": -108,
+            "time": "2024-12-03T12:46:43.127390Z",
+            "tmms": 1417265221127
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 9.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -109
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -1.2,
+            "mac": "008000000000C2FA",
+            "rssi": -113,
+            "time": "2024-12-03T12:46:43.104399Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 0.25,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T12:46:43.129733Z"
+    },
+    "codr": "4/5",
+    "data": "016701580268400373275C0486FFF900020000",
+    "datetime": "2024-12-03T12:46:43Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 5,
+    "freq": 868.3,
+    "lsnr": 0.25,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 3,
+            "mac": "50303541143D4750",
+            "rssi": -104,
+            "time": "2024-12-03T12:47:13.365038Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 5.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -113
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 3,
+        "mac": "50303541143D4750",
+        "rssi": -104,
+        "time": "2024-12-03T12:47:13.365038Z"
+    },
+    "codr": "4/5",
+    "data": "016701570268400373275C0486FFF900020000",
+    "datetime": "2024-12-03T12:47:13Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 6,
+    "freq": 868.5,
+    "lsnr": 3,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -104
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 176,
+            "gpspos": {
+                "lat": 43.55806,
+                "lon": 1.46955
+            },
+            "lsnr": 3.5,
+            "mac": "00800000A00048F6",
+            "rssi": -104,
+            "time": "2024-12-03T12:47:43.590057Z",
+            "tmms": 1417265281589
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -0.25,
+            "mac": "50303541143D4750",
+            "rssi": -107,
+            "time": "2024-12-03T12:47:43.593017Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 6.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -111
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 176,
+        "gpspos": {
+            "lat": 43.55806,
+            "lon": 1.46955
+        },
+        "lsnr": 3.5,
+        "mac": "00800000A00048F6",
+        "rssi": -104,
+        "time": "2024-12-03T12:47:43.590057Z",
+        "tmms": 1417265281589
+    },
+    "codr": "4/5",
+    "data": "016701560268410373275C0486FFF900020000",
+    "datetime": "2024-12-03T12:47:43Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 7,
+    "freq": 868.5,
+    "lsnr": 3.5,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -104
+},
+{
+    "all_gw": [
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 9.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -109
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -11,
+            "mac": "50303541143D4750",
+            "rssi": -110,
+            "time": "2024-12-03T12:48:13.821466Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": 0,
+            "mac": "008000000000C2F1",
+            "rssi": -113,
+            "time": "2024-12-03T12:48:13.752617Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 0.8,
+            "mac": "008000000000C2FA",
+            "rssi": -115,
+            "time": "2024-12-03T12:48:13.795662Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+        "gpsalt": 155,
+        "gpspos": {
+            "lat": 43.56223260262245,
+            "lon": 1.4676833152770996
+        },
+        "lsnr": 9.2,
+        "mac": "FFFE00044BEC61C2",
+        "rssi": -109
+    },
+    "codr": "4/5",
+    "data": "016701570268400373275C0486FFFA00020000",
+    "datetime": "2024-12-03T12:48:13Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 8,
+    "freq": 868.3,
+    "lsnr": 9.2,
+    "mac": "FFFE00044BEC61C2",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -109
+},
+{
+    "all_gw": [
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 8.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -107
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -1.25,
+            "mac": "50303541143D4750",
+            "rssi": -109,
+            "time": "2024-12-03T12:48:44.057136Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 171,
+            "gpspos": {
+                "lat": 43.55803,
+                "lon": 1.46956
+            },
+            "lsnr": 6,
+            "mac": "00800000A00048F6",
+            "rssi": -109,
+            "time": "2024-12-03T12:48:44.054915Z",
+            "tmms": 1417265342054
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": 0.8,
+            "mac": "008000000000C2F1",
+            "rssi": -113,
+            "time": "2024-12-03T12:48:43.983986Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 3.5,
+            "mac": "008000000000C2FA",
+            "rssi": -115,
+            "time": "2024-12-03T12:48:44.031658Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+        "gpsalt": 155,
+        "gpspos": {
+            "lat": 43.56223260262245,
+            "lon": 1.4676833152770996
+        },
+        "lsnr": 8.5,
+        "mac": "FFFE00044BEC61C2",
+        "rssi": -107
+    },
+    "codr": "4/5",
+    "data": "016701570268400373275C0486FFFA00020000",
+    "datetime": "2024-12-03T12:48:44Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 9,
+    "freq": 868.3,
+    "lsnr": 8.5,
+    "mac": "FFFE00044BEC61C2",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -107
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -0.25,
+            "mac": "50303541143D4750",
+            "rssi": -104,
+            "time": "2024-12-03T12:49:14.289393Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 176,
+            "gpspos": {
+                "lat": 43.55804,
+                "lon": 1.46957
+            },
+            "lsnr": -4.8,
+            "mac": "00800000A00048F6",
+            "rssi": -107,
+            "time": "2024-12-03T12:49:14.286473Z",
+            "tmms": 1417265372286
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -108
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": -0.25,
+        "mac": "50303541143D4750",
+        "rssi": -104,
+        "time": "2024-12-03T12:49:14.289393Z"
+    },
+    "codr": "4/5",
+    "data": "0167015702683F0373275C0486FFFA00020000",
+    "datetime": "2024-12-03T12:49:14Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 10,
+    "freq": 868.5,
+    "lsnr": -0.25,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -104
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 172,
+            "gpspos": {
+                "lat": 43.55804,
+                "lon": 1.46957
+            },
+            "lsnr": -1.2,
+            "mac": "00800000A00048F6",
+            "rssi": -102,
+            "time": "2024-12-03T12:49:44.509110Z",
+            "tmms": 1417265402509
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 2.25,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T12:49:44.511912Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -111
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 0,
+            "mac": "008000000000C2FA",
+            "rssi": -117,
+            "time": "2024-12-03T12:49:44.486411Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 172,
+        "gpspos": {
+            "lat": 43.55804,
+            "lon": 1.46957
+        },
+        "lsnr": -1.2,
+        "mac": "00800000A00048F6",
+        "rssi": -102,
+        "time": "2024-12-03T12:49:44.509110Z",
+        "tmms": 1417265402509
+    },
+    "codr": "4/5",
+    "data": "0167015802683F0373275C0486FFFA00020000",
+    "datetime": "2024-12-03T12:49:44Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 11,
+    "freq": 868.3,
+    "lsnr": -1.2,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -102
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 172,
+            "gpspos": {
+                "lat": 43.55805,
+                "lon": 1.46957
+            },
+            "lsnr": -12.5,
+            "mac": "00800000A00048F6",
+            "rssi": -99,
+            "time": "2024-12-03T12:50:14.732052Z",
+            "tmms": 1417265432731
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 0,
+            "mac": "50303541143D4750",
+            "rssi": -107,
+            "time": "2024-12-03T12:50:14.734992Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 0.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -114
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -3.8,
+            "mac": "008000000000C2FA",
+            "rssi": -117,
+            "time": "2024-12-03T12:50:14.716404Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -3.8,
+            "mac": "008000000000C2F1",
+            "rssi": -117,
+            "time": "2024-12-03T12:50:14.658632Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 172,
+        "gpspos": {
+            "lat": 43.55805,
+            "lon": 1.46957
+        },
+        "lsnr": -12.5,
+        "mac": "00800000A00048F6",
+        "rssi": -99,
+        "time": "2024-12-03T12:50:14.732052Z",
+        "tmms": 1417265432731
+    },
+    "codr": "4/5",
+    "data": "016701580268410373275C0486FFFA00020000",
+    "datetime": "2024-12-03T12:50:14Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 12,
+    "freq": 868.3,
+    "lsnr": -12.5,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -99
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 3.25,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T12:59:42.784791Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -109
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 3.25,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T12:59:42.784791Z"
+    },
+    "codr": "4/5",
+    "data": "48656C6C6F2C204C6F526157414E2042414445525F4E41424921",
+    "datetime": "2024-12-03T12:59:42Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 0,
+    "freq": 868.5,
+    "lsnr": 3.25,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105,
+    "text": "Hello, LoRaWAN BADER_NABI!"
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 1.5,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T13:00:13.425576Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 173,
+            "gpspos": {
+                "lat": 43.55805,
+                "lon": 1.46956
+            },
+            "lsnr": -4.5,
+            "mac": "00800000A00048F6",
+            "rssi": -105,
+            "time": "2024-12-03T13:00:13.422497Z",
+            "tmms": 1417266031422
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 6.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -109
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -2,
+            "mac": "008000000000C2F1",
+            "rssi": -112,
+            "time": "2024-12-03T13:00:13.341091Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -5.5,
+            "mac": "008000000000C2FA",
+            "rssi": -116,
+            "time": "2024-12-03T13:00:13.391299Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 1.5,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T13:00:13.425576Z"
+    },
+    "codr": "4/5",
+    "data": "016701560268400373275B0486FFF900030000",
+    "datetime": "2024-12-03T13:00:13Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 1,
+    "freq": 868.3,
+    "lsnr": 1.5,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 2,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T13:00:43.662066Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 171,
+            "gpspos": {
+                "lat": 43.55804,
+                "lon": 1.46957
+            },
+            "lsnr": 1.8,
+            "mac": "00800000A00048F6",
+            "rssi": -107,
+            "time": "2024-12-03T13:00:43.659517Z",
+            "tmms": 1417266061659
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 3,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -115
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -1.8,
+            "mac": "008000000000C2FA",
+            "rssi": -117,
+            "time": "2024-12-03T13:00:43.625809Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 2,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T13:00:43.662066Z"
+    },
+    "codr": "4/5",
+    "data": "016701530268400373275A0486FFF900020000",
+    "datetime": "2024-12-03T13:00:43Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 2,
+    "freq": 868.3,
+    "lsnr": 2,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 170,
+            "gpspos": {
+                "lat": 43.55803,
+                "lon": 1.46958
+            },
+            "lsnr": -2.8,
+            "mac": "00800000A00048F6",
+            "rssi": -107,
+            "time": "2024-12-03T13:01:13.894401Z",
+            "tmms": 1417266091893
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -3,
+            "mac": "50303541143D4750",
+            "rssi": -109,
+            "time": "2024-12-03T13:01:13.896972Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 6.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -111
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -5,
+            "mac": "008000000000C2F1",
+            "rssi": -115,
+            "time": "2024-12-03T13:01:13.819885Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -3.2,
+            "mac": "008000000000C2FA",
+            "rssi": -119,
+            "time": "2024-12-03T13:01:13.863813Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 170,
+        "gpspos": {
+            "lat": 43.55803,
+            "lon": 1.46958
+        },
+        "lsnr": -2.8,
+        "mac": "00800000A00048F6",
+        "rssi": -107,
+        "time": "2024-12-03T13:01:13.894401Z",
+        "tmms": 1417266091893
+    },
+    "codr": "4/5",
+    "data": "016701560268400373275A0486FFF900020000",
+    "datetime": "2024-12-03T13:01:13Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 3,
+    "freq": 868.3,
+    "lsnr": -2.8,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -107
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 0.75,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T13:01:44.134043Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -3.8,
+            "mac": "008000000000C2F1",
+            "rssi": -114,
+            "time": "2024-12-03T13:01:44.058763Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 4.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -115
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 170,
+            "gpspos": {
+                "lat": 43.55802,
+                "lon": 1.46958
+            },
+            "lsnr": -7.8,
+            "mac": "00800000A00048F6",
+            "rssi": -116,
+            "time": "2024-12-03T13:01:44.130925Z",
+            "tmms": 1417266122130
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -3.8,
+            "mac": "008000000000C2FA",
+            "rssi": -117,
+            "time": "2024-12-03T13:01:44.098209Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 0.75,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T13:01:44.134043Z"
+    },
+    "codr": "4/5",
+    "data": "0167015602683F0373275A0486FFF900020000",
+    "datetime": "2024-12-03T13:01:44Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 4,
+    "freq": 868.5,
+    "lsnr": 0.75,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 170,
+            "gpspos": {
+                "lat": 43.55802,
+                "lon": 1.46958
+            },
+            "lsnr": 5.5,
+            "mac": "00800000A00048F6",
+            "rssi": -100,
+            "time": "2024-12-03T13:02:14.366441Z",
+            "tmms": 1417266152366
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 4,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T13:02:14.369053Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 8.8,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -111
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -6.5,
+            "mac": "008000000000C2F1",
+            "rssi": -117,
+            "time": "2024-12-03T13:02:14.292265Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 170,
+        "gpspos": {
+            "lat": 43.55802,
+            "lon": 1.46958
+        },
+        "lsnr": 5.5,
+        "mac": "00800000A00048F6",
+        "rssi": -100,
+        "time": "2024-12-03T13:02:14.366441Z",
+        "tmms": 1417266152366
+    },
+    "codr": "4/5",
+    "data": "0167015502683F0373275A0486FFF900020000",
+    "datetime": "2024-12-03T13:02:14Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 5,
+    "freq": 868.3,
+    "lsnr": 5.5,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -100
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -1,
+            "mac": "50303541143D4750",
+            "rssi": -108,
+            "time": "2024-12-03T13:02:44.605147Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -109
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 172,
+            "gpspos": {
+                "lat": 43.55803,
+                "lon": 1.46957
+            },
+            "lsnr": -6.5,
+            "mac": "00800000A00048F6",
+            "rssi": -110,
+            "time": "2024-12-03T13:02:44.602573Z",
+            "tmms": 1417266182602
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -7,
+            "mac": "008000000000C2FA",
+            "rssi": -114,
+            "time": "2024-12-03T13:02:44.566645Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": -1,
+        "mac": "50303541143D4750",
+        "rssi": -108,
+        "time": "2024-12-03T13:02:44.605147Z"
+    },
+    "codr": "4/5",
+    "data": "0167015502683F0373275A0486FFF900020000",
+    "datetime": "2024-12-03T13:02:44Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 6,
+    "freq": 868.3,
+    "lsnr": -1,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -108
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -4.5,
+            "mac": "50303541143D4750",
+            "rssi": -108,
+            "time": "2024-12-03T13:03:14.842204Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 5.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -111
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -6,
+            "mac": "008000000000C2FA",
+            "rssi": -118,
+            "time": "2024-12-03T13:03:14.807930Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": -4.5,
+        "mac": "50303541143D4750",
+        "rssi": -108,
+        "time": "2024-12-03T13:03:14.842204Z"
+    },
+    "codr": "4/5",
+    "data": "016701540268400373275A0486FFFA00020000",
+    "datetime": "2024-12-03T13:03:14Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 7,
+    "freq": 868.5,
+    "lsnr": -4.5,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -108
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 0,
+            "mac": "50303541143D4750",
+            "rssi": -104,
+            "time": "2024-12-03T13:03:45.079268Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 5.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -109
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -9.2,
+            "mac": "008000000000C2F1",
+            "rssi": -112,
+            "time": "2024-12-03T13:03:44.999018Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 0,
+        "mac": "50303541143D4750",
+        "rssi": -104,
+        "time": "2024-12-03T13:03:45.079268Z"
+    },
+    "codr": "4/5",
+    "data": "0167015502683F0373275A0486FFFA00020000",
+    "datetime": "2024-12-03T13:03:45Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 8,
+    "freq": 868.5,
+    "lsnr": 0,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -104
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 2.25,
+            "mac": "50303541143D4750",
+            "rssi": -103,
+            "time": "2024-12-03T13:04:15.315599Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 5.8,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -113
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 2.25,
+        "mac": "50303541143D4750",
+        "rssi": -103,
+        "time": "2024-12-03T13:04:15.315599Z"
+    },
+    "codr": "4/5",
+    "data": "0167015602683E0373275A0486FFFA00020000",
+    "datetime": "2024-12-03T13:04:15Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 9,
+    "freq": 868.5,
+    "lsnr": 2.25,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -103
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -1.25,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T13:04:45.552441Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": -0.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -115
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": -1.25,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T13:04:45.552441Z"
+    },
+    "codr": "4/5",
+    "data": "0167015702683E0373275A0486FFFA00020000",
+    "datetime": "2024-12-03T13:04:45Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 10,
+    "freq": 868.5,
+    "lsnr": -1.25,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 170,
+            "gpspos": {
+                "lat": 43.55801,
+                "lon": 1.46957
+            },
+            "lsnr": 1.8,
+            "mac": "00800000A00048F6",
+            "rssi": -107,
+            "time": "2024-12-03T13:05:15.785512Z",
+            "tmms": 1417266333785
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": -4.5,
+            "mac": "50303541143D4750",
+            "rssi": -108,
+            "time": "2024-12-03T13:05:15.788113Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 7.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -108
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -6.8,
+            "mac": "008000000000C2F1",
+            "rssi": -114,
+            "time": "2024-12-03T13:05:15.702517Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -1.2,
+            "mac": "008000000000C2FA",
+            "rssi": -123,
+            "time": "2024-12-03T13:05:15.747816Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 170,
+        "gpspos": {
+            "lat": 43.55801,
+            "lon": 1.46957
+        },
+        "lsnr": 1.8,
+        "mac": "00800000A00048F6",
+        "rssi": -107,
+        "time": "2024-12-03T13:05:15.785512Z",
+        "tmms": 1417266333785
+    },
+    "codr": "4/5",
+    "data": "016701580268400373275A0486FFFA00020000",
+    "datetime": "2024-12-03T13:05:15Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 11,
+    "freq": 868.3,
+    "lsnr": 1.8,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -107
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 2.75,
+            "mac": "50303541143D4750",
+            "rssi": -107,
+            "time": "2024-12-03T14:25:45.404194Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -4,
+            "mac": "008000000000C2F1",
+            "rssi": -115,
+            "time": "2024-12-03T14:25:45.357859Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 1.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -115
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": -0.5,
+            "mac": "008000000000C2FA",
+            "rssi": -117,
+            "time": "2024-12-03T14:25:45.395509Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 2.75,
+        "mac": "50303541143D4750",
+        "rssi": -107,
+        "time": "2024-12-03T14:25:45.404194Z"
+    },
+    "codr": "4/5",
+    "data": "0167015E02683C037327550486FFF900030000",
+    "datetime": "2024-12-03T14:25:45Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 0,
+    "freq": 868.3,
+    "lsnr": 2.75,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -107
+},
+{
+    "all_gw": [
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 173,
+            "gpspos": {
+                "lat": 43.55803,
+                "lon": 1.46958
+            },
+            "lsnr": 3.8,
+            "mac": "00800000A00048F6",
+            "rssi": -103,
+            "time": "2024-12-03T14:26:15.633909Z",
+            "tmms": 1417271193633
+        },
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 3.25,
+            "mac": "50303541143D4750",
+            "rssi": -104,
+            "time": "2024-12-03T14:26:15.639060Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -113
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 2.5,
+            "mac": "008000000000C2FA",
+            "rssi": -115,
+            "time": "2024-12-03T14:26:15.629541Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+        "gpsalt": 173,
+        "gpspos": {
+            "lat": 43.55803,
+            "lon": 1.46958
+        },
+        "lsnr": 3.8,
+        "mac": "00800000A00048F6",
+        "rssi": -103,
+        "time": "2024-12-03T14:26:15.633909Z",
+        "tmms": 1417271193633
+    },
+    "codr": "4/5",
+    "data": "0167015E02683C037327540486FFF900030000",
+    "datetime": "2024-12-03T14:26:15Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 1,
+    "freq": 868.3,
+    "lsnr": 3.8,
+    "mac": "00800000A00048F6",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -103
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 4.25,
+            "mac": "50303541143D4750",
+            "rssi": -102,
+            "time": "2024-12-03T14:26:45.876762Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 174,
+            "gpspos": {
+                "lat": 43.55804,
+                "lon": 1.46955
+            },
+            "lsnr": 5.2,
+            "mac": "00800000A00048F6",
+            "rssi": -110,
+            "time": "2024-12-03T14:26:45.871414Z",
+            "tmms": 1417271223871
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -3,
+            "mac": "008000000000C2F1",
+            "rssi": -114,
+            "time": "2024-12-03T14:26:45.824486Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 2.5,
+            "mac": "008000000000C2FA",
+            "rssi": -115,
+            "time": "2024-12-03T14:26:45.868667Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": -11,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -118
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 4.25,
+        "mac": "50303541143D4750",
+        "rssi": -102,
+        "time": "2024-12-03T14:26:45.876762Z"
+    },
+    "codr": "4/5",
+    "data": "0167015F02683C037327550486FFF900030000",
+    "datetime": "2024-12-03T14:26:45Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 2,
+    "freq": 868.5,
+    "lsnr": 4.25,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -102
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 3.75,
+            "mac": "50303541143D4750",
+            "rssi": -103,
+            "time": "2024-12-03T14:27:16.112947Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": 4.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -111
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 173,
+            "gpspos": {
+                "lat": 43.55805,
+                "lon": 1.46953
+            },
+            "lsnr": 3.8,
+            "mac": "00800000A00048F6",
+            "rssi": -111,
+            "time": "2024-12-03T14:27:16.107636Z",
+            "tmms": 1417271254107
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -0.2,
+            "mac": "008000000000C2F1",
+            "rssi": -115,
+            "time": "2024-12-03T14:27:16.059959Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 1.5,
+            "mac": "008000000000C2FA",
+            "rssi": -115,
+            "time": "2024-12-03T14:27:16.098547Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 3.75,
+        "mac": "50303541143D4750",
+        "rssi": -103,
+        "time": "2024-12-03T14:27:16.112947Z"
+    },
+    "codr": "4/5",
+    "data": "0167016002683C037327550486FFF900030000",
+    "datetime": "2024-12-03T14:27:16Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 3,
+    "freq": 868.5,
+    "lsnr": 3.75,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -103
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 5.75,
+            "mac": "50303541143D4750",
+            "rssi": -104,
+            "time": "2024-12-03T14:27:46.351444Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 177,
+            "gpspos": {
+                "lat": 43.55809,
+                "lon": 1.46955
+            },
+            "lsnr": -2.8,
+            "mac": "00800000A00048F6",
+            "rssi": -111,
+            "time": "2024-12-03T14:27:46.346669Z",
+            "tmms": 1417271284347
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 1.8,
+            "mac": "008000000000C2FA",
+            "rssi": -115,
+            "time": "2024-12-03T14:27:46.342543Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": -0.5,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -117
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -5.5,
+            "mac": "008000000000C2F1",
+            "rssi": -117,
+            "time": "2024-12-03T14:27:46.297067Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 5.75,
+        "mac": "50303541143D4750",
+        "rssi": -104,
+        "time": "2024-12-03T14:27:46.351444Z"
+    },
+    "codr": "4/5",
+    "data": "0167016102683C037327550486FFF900030000",
+    "datetime": "2024-12-03T14:27:46Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 4,
+    "freq": 868.3,
+    "lsnr": 5.75,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -104
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 3.5,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T14:28:16.588753Z"
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 3.5,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T14:28:16.588753Z"
+    },
+    "codr": "4/5",
+    "data": "0167015F02683C037327550486FFF900030000",
+    "datetime": "2024-12-03T14:28:16Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 5,
+    "freq": 868.5,
+    "lsnr": 3.5,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+},
+{
+    "all_gw": [
+        {
+            "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+            "gpsalt": 150,
+            "gpspos": {
+                "lat": 43.562224828225425,
+                "lon": 1.46767258644104
+            },
+            "lsnr": 3.75,
+            "mac": "50303541143D4750",
+            "rssi": -105,
+            "time": "2024-12-03T14:28:46.824809Z"
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU sciences",
+            "gpsalt": 157,
+            "gpspos": {
+                "lat": 43.56350759016262,
+                "lon": 1.4655053615570068
+            },
+            "lsnr": 2.8,
+            "mac": "008000000000C2FA",
+            "rssi": -114,
+            "time": "2024-12-03T14:28:46.815551Z"
+        },
+        {
+            "desc": "MTCDTIP-266A / LoRa gateway @ Ecolab",
+            "gpsalt": 177,
+            "gpspos": {
+                "lat": 43.55808,
+                "lon": 1.46955
+            },
+            "lsnr": 0,
+            "mac": "00800000A00048F6",
+            "rssi": -115,
+            "time": "2024-12-03T14:28:46.819627Z",
+            "tmms": 1417271344819
+        },
+        {
+            "desc": "MTCDT-210A / LoRa gateway @ BU santé",
+            "gpsalt": 204,
+            "gpspos": {
+                "lat": 43.56133854038699,
+                "lon": 1.45643949508667
+            },
+            "lsnr": -6.8,
+            "mac": "008000000000C2F1",
+            "rssi": -119,
+            "time": "2024-12-03T14:28:46.775865Z"
+        },
+        {
+            "desc": "[eCOnect] Jetson nano + PyGate @ IRIT2-460",
+            "gpsalt": 155,
+            "gpspos": {
+                "lat": 43.56223260262245,
+                "lon": 1.4676833152770996
+            },
+            "lsnr": -10.2,
+            "mac": "FFFE00044BEC61C2",
+            "rssi": -119
+        }
+    ],
+    "app": "neOCampus-test",
+    "appargs": "\"app arg\"",
+    "appid": "neOCampus",
+    "battery": 255,
+    "best_gw": {
+        "desc": "Mikrotik LtAP LR8 (Jean-Louis Druilhe) @IRIT2-366",
+        "gpsalt": 150,
+        "gpspos": {
+            "lat": 43.562224828225425,
+            "lon": 1.46767258644104
+        },
+        "lsnr": 3.75,
+        "mac": "50303541143D4750",
+        "rssi": -105,
+        "time": "2024-12-03T14:28:46.824809Z"
+    },
+    "codr": "4/5",
+    "data": "0167015F02683C037327550486FFF900030000",
+    "datetime": "2024-12-03T14:28:46Z",
+    "datr": "SF9BW125",
+    "desc": "Lab-device-07",
+    "devaddr": "85BD5A1D",
+    "deveui": "DEADDEAD00090007",
+    "fcnt": 6,
+    "freq": 868.5,
+    "lsnr": 3.75,
+    "mac": "50303541143D4750",
+    "netid": "000042",
+    "port": 1,
+    "rssi": -105
+}
+]
